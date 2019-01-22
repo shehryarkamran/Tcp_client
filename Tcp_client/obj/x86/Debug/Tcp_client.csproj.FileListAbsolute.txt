@@ -1,0 +1,10 @@
+C:\Users\Asif\AppData\Local\Temporary Projects\Tcp_client\bin\Debug\Tcp_client.exe
+C:\Users\Asif\AppData\Local\Temporary Projects\Tcp_client\bin\Debug\Tcp_client.pdb
+C:\Users\Asif\AppData\Local\Temporary Projects\Tcp_client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asif\AppData\Local\Temporary Projects\Tcp_client\obj\x86\Debug\Tcp_client.exe
+C:\Users\Asif\AppData\Local\Temporary Projects\Tcp_client\obj\x86\Debug\Tcp_client.pdb
+K:\Tcp_client\Tcp_client\obj\x86\Debug\Tcp_client.exe
+K:\Tcp_client\Tcp_client\obj\x86\Debug\Tcp_client.pdb
+K:\Tcp_client\Tcp_client\bin\Debug\Tcp_client.exe
+K:\Tcp_client\Tcp_client\bin\Debug\Tcp_client.pdb
+K:\Tcp_client\Tcp_client\obj\x86\Debug\Tcp_client.csprojResolveAssemblyReference.cache
